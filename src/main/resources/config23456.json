@@ -1,0 +1,6 @@
+{
+  "port": 23456,
+  "localRecipients": ["ana", "alex"],
+  "peers": ["127.0.0.1:12345"],
+  "maxHops": 5
+}
