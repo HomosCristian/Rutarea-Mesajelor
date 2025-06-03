@@ -13,10 +13,6 @@ Acest proiect implementează o aplicație client-server de tip “mail routing�
    - 6.1. Server – fișiere configurare  
    - 6.2. Client – argumente sau prompt CLI  
 7. [Exemple de test – mesaje locale și rutate](#exemple-de-test--mesaje-locale-%C8%99i-rutate)  
-8. [Structura directorului `mailboxes/`](#structura-directorului-mailboxes)  
-9. [Ștergerea mesajelor din `mailboxes/`](#ștergerea-mesajelor-din-mailboxes)  
-10. [Cum se pune proiectul pe GitHub](#cum-se-pune-proiectul-pe-github)  
-11. [Licență](#licență)
 
 ---
 
